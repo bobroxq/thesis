@@ -1,0 +1,197 @@
+Description,Max Score,Total Score,Query Score,E Value,Per. Ident,Accession
+cytochrome C [Gammaproteobacteria bacterium]                     ,213,213,96%,5.00E-68,64.47,RJQ49108.1
+TPA: cytochrome C [Thiotrichales bacterium]                      ,202,202,98%,8.00E-64,58.33,HHH46368.1
+hypothetical protein HRbin33_01501 [bacterium HR33]              ,200,200,84%,7.00E-63,66.42,GBD32531.1
+cytochrome c' [Nitrosococcus halophilus Nc 4]                    ,196,196,86%,6.00E-61,62.77,ADE15171.1
+cytochrome P460 family protein [Nitrosococcus halophilus]        ,195,195,86%,8.00E-61,62.77,WP_041354840.1
+MULTISPECIES: cytochrome P460 family protein [Methylomonas]      ,194,194,96%,2.00E-60,56.49,WP_132324930.1
+cytochrome C [Methylomonas denitrificans]                        ,194,194,96%,2.00E-60,56.49,AMK77869.1
+cytochrome P460 family protein [Methylicorpusculum oleiharenae]  ,193,193,96%,3.00E-60,54.9,WP_159651694.1
+cytochrome P460 family protein [Methylomonas sp. 11b]            ,192,192,96%,5.00E-60,56.49,WP_026602000.1
+cytochrome P460 family protein [Methylomonas methanica]          ,192,192,96%,6.00E-60,55.84,WP_064010347.1
+cytochrome C [Proteobacteria bacterium ST_bin11]                 ,192,192,96%,6.00E-60,56.49,OQW75290.1
+cytochrome P460 family protein [Crenothrix polyspora]            ,192,192,95%,7.00E-60,58.55,WP_087147958.1
+cytochrome P460 family protein [Methylomonas sp. MK1]            ,192,192,96%,7.00E-60,55.84,WP_020484950.1
+cytochrome P460 family protein [Methylomonas methanica]          ,192,192,96%,9.00E-60,55.84,WP_064036967.1
+MULTISPECIES: cytochrome P460 family protein [unclassified...    ,191,191,96%,2.00E-59,56.49,WP_033157101.1
+cytochrome P460 family protein [Methyloglobulus morosus]         ,191,191,99%,2.00E-59,55.06,WP_023493440.1
+cytochrome P460 family protein [Methylomonas koyamae]            ,191,191,93%,2.00E-59,56.46,WP_064029053.1
+cytochrome P460 family protein [Methylomicrobium buryatense]     ,191,191,92%,2.00E-59,59.48,WP_017840833.1
+cytochrome C [Candidatus Dadabacteria bacterium]                 ,190,190,99%,4.00E-59,54.66,RMG41192.1
+MULTISPECIES: cytochrome P460 family protein [Methylomonas]      ,190,190,93%,4.00E-59,55.78,WP_064020944.1
+cytochrome P460 family protein [Methylomicrobium kenyense]       ,190,190,98%,4.00E-59,56.69,WP_141901754.1
+cytochrome c'-beta [Methylomonas sp. 16a]                        ,189,189,96%,2.00E-58,55.13,ADB22384.1
+cytochrome P460 family protein [Methylomonas koyamae]            ,188,188,93%,4.00E-58,54.42,WP_140913839.1
+cytochrome C [Gammaproteobacteria bacterium...                   ,188,188,92%,4.00E-58,57.52,PKM37021.1
+cytochrome C [Rhodospirillaceae bacterium]                       ,187,187,86%,6.00E-58,62.5,MSO89769.1
+cytochrome C [Gammaproteobacteria bacterium]                     ,187,187,99%,7.00E-58,57.96,RMG28521.1
+cytochrome C [Nitrospinae bacterium...                           ,187,187,96%,8.00E-58,52.63,PIR01307.1
+cytochrome P460 family protein [Methylomicrobium sp. wino1]      ,187,187,96%,8.00E-58,57.79,WP_125217044.1
+cytochrome P460 family protein [Methylomicrobium alcaliphilum]   ,187,187,96%,1.00E-57,57.14,WP_014147203.1
+cytochrome P460 family protein [Thioalkalivibrio...              ,186,186,96%,1.00E-57,56.13,WP_018232978.1
+cytochrome P460 family protein [Nitrospina gracilis]             ,185,185,95%,4.00E-57,57.89,WP_005007624.1
+cytochrome C [Proteobacteria bacterium]                         ,183,183,100%,2.00E-56,50.94,KAA0206688.1
+cytochrome C [Xanthomonadales bacterium...                      ,183,183,100%,3.00E-56,52.76,PIV32167.1
+cytochrome P460 family protein [Crenothrix polyspora]            ,182,182,87%,6.00E-56,57.55,WP_087144391.1
+cytochrome C [Gammaproteobacteria bacterium]                     ,181,181,86%,2.00E-55,61.03,RMG33351.1
+cytochrome P460 family protein [Pseudomonas guangdongensis]      ,180,180,98%,3.00E-55,52.87,WP_090211792.1
+cytochrome P460 family protein [Methylocaldum szegediense]       ,179,179,99%,8.00E-55,52.47,WP_026610031.1
+cytochrome P460 family protein [Methylocaldum marinum]           ,179,179,94%,8.00E-55,55.63,WP_119632409.1
+MULTISPECIES: cytochrome P460 family protein [Pseudomonas]       ,179,179,87%,1.00E-54,57.86,WP_041506140.1
+cytochrome P460 family protein [Pseudomonas linyingensis]       ,179,179,100%,1.00E-54,52.2,WP_090313264.1
+cytochrome P460 family protein [Methylocaldum sp. SAD2]          ,179,179,94%,2.00E-54,52.98,WP_086135387.1
+cytochrome P460 family protein [Sinimarinibacterium sp. CAU 1509],178,178,96%,2.00E-54,53.55,WP_136849137.1
+cytochrome C [Xanthomonadales bacterium...                       ,178,178,96%,3.00E-54,53.55,PIQ36240.1
+cytochrome P460 family protein [Quisquiliibacterium sp....       ,177,177,86%,4.00E-54,58.7,WP_147702448.1
+cytochrome C [Lautropia sp. SCN 70-15]                           ,177,177,86%,5.00E-54,58.7,ODT36898.1
+TPA: cytochrome C [Chromatiales bacterium]                       ,177,177,86%,6.00E-54,61.31,HHQ42316.1
+cytochrome P460 family protein [Fontimonas thermophila]         ,177,177,100%,6.00E-54,54.09,WP_091535584.1
+cytochrome P460 family protein [Pseudomonas sagittaria]          ,177,177,87%,7.00E-54,56.43,WP_092433018.1
+cytochrome C [Acidobacteria bacterium RIFCSPHIGHO2_01_FULL_67_28],177,177,84%,1.00E-53,59.7,OFV83760.1
+cytochrome C [Betaproteobacteria bacterium]                      ,176,176,95%,2.00E-53,52.63,MSQ71667.1
+cytochrome C [Calditrichaeota bacterium]                         ,176,176,95%,2.00E-53,56.58,RMH79563.1
+TPA: cytochrome C [bacterium]                                    ,176,176,94%,2.00E-53,53.9,HEU32480.1
+cytochrome P460 family protein [Methylocaldum sp. 0917]          ,176,176,92%,2.00E-53,52.38,WP_133716894.1
+cytochrome C [Calditrichaeota bacterium]                         ,176,176,95%,2.00E-53,55.92,RMH79614.1
+cytochrome C [Gammaproteobacteria bacterium]                     ,175,175,97%,3.00E-53,55.19,RMD70766.1
+cytochrome P460 family protein [Pseudomonas oryzae]              ,175,175,87%,3.00E-53,55.71,WP_090347611.1
+cytochrome P460 family protein [Methylocaldum sp. 14B]           ,175,175,92%,4.00E-53,53.06,WP_143735089.1
+cytochrome C [Betaproteobacteria bacterium...                    ,175,175,95%,4.00E-53,52.6,PKO63657.1
+cytochrome P460 family protein [Candidatus Thermokryptus mobilis],175,175,99%,5.00E-53,47.85,WP_140945283.1
+cytochrome C [Calditrichaeota bacterium]                         ,175,175,98%,6.00E-53,53.7,RMF59724.1
+cytochrome C [Nitrospirae bacterium RBG_19FT_COMBO_55_12]        ,174,174,84%,1.00E-52,56.3,OGW52902.1
+cytochrome P460 family protein [Candidatus Kryptonium thompsoni] ,174,174,99%,2.00E-52,48.47,WP_047134523.1
+cytochrome C [Acidobacteria bacterium]                           ,173,173,87%,3.00E-52,60,RMF73008.1
+cytochrome P460 family protein [Betaproteobacteria bacterium...  ,172,172,95%,4.00E-52,53.29,WP_151607861.1
+cytochrome C [Proteobacteria bacterium]                          ,172,172,84%,7.00E-52,57.04,KAA3628218.1
+cytochrome C [Dechlorosoma suillum]                              ,171,171,99%,9.00E-52,49.37,PZP56531.1
+cytochrome C [Proteobacteria bacterium]                          ,171,171,86%,1.00E-51,57.25,KAA3625965.1
+cytochrome P460 family protein [Candidatus Chrysopegis...        ,172,172,99%,1.00E-51,46.63,WP_092348212.1
+cytochrome P460 family protein [Pseudomonas sp. A-1]             ,171,171,89%,1.00E-51,53.85,WP_136489069.1
+cytochrome P460 family protein [Sinimarinibacterium sp. CAU 1509],171,171,95%,1.00E-51,54.55,WP_136852053.1
+cytochrome C [candidate division KSB1 bacterium]                 ,171,171,84%,1.00E-51,56.3,KAA0225486.1
+cytochrome P460 family protein [Candidatus Kryptonium thompsoni] ,171,171,99%,2.00E-51,47.85,WP_075432325.1
+TPA: cytochrome C [Betaproteobacteria bacterium]                 ,171,171,99%,3.00E-51,48.1,HGO59570.1
+hypothetical protein HRbin09_00620 [bacterium HR09]              ,170,170,98%,4.00E-51,50.96,GBC79401.1
+cytochrome P460 family protein [Candidatus Kryptobacter...       ,170,170,94%,5.00E-51,48.67,WP_072152207.1
+cytochrome P460 family protein [Candidatus Kryptobacter...       ,170,170,94%,5.00E-51,48.67,WP_072263446.1
+cytochrome C [Candidatus Dadabacteria bacterium]                 ,169,169,98%,7.00E-51,55.06,NIP29640.1
+cytochrome P460 family protein [Pseudomonas sp. WN033]          ,169,169,100%,8.00E-51,49.69,WP_095626406.1
+TPA: cytochrome C [Xanthomonadales bacterium]                    ,169,169,92%,1.00E-50,51.95,HBK56654.1
+cytochrome P460 family protein [Pseudomonas sp. S-6-2]          ,169,169,100%,1.00E-50,49.06,WP_080048532.1
+TPA: cytochrome C [Betaproteobacteria bacterium]                 ,169,169,94%,1.00E-50,50.67,HEU61680.1
+cytochrome C [Calditrichaeota bacterium]                         ,169,169,88%,1.00E-50,52.48,RMF60061.1
+cytochrome C [Gammaproteobacteria bacterium...                  ,168,168,100%,2.00E-50,51.57,PKM08560.1
+cytochrome C [gamma proteobacterium symbiont of Ctena orbiculata],168,168,96%,2.00E-50,50,PUB88493.1
+cytochrome P460 family protein [Thioalkalivibrio paradoxus]      ,168,168,84%,2.00E-50,55.64,WP_006746422.1
+cytochrome C [Gammaproteobacteria bacterium SG8_15]              ,167,167,87%,4.00E-50,52.9,KPJ91613.1
+cytochrome P460 family protein [Thermoanaerobaculum aquaticum]   ,167,167,98%,4.00E-50,49.68,WP_038050479.1
+cytochrome P460 family protein [Steroidobacter agariperforans]   ,167,167,98%,4.00E-50,48.08,WP_129645321.1
+cytochrome C [Gammaproteobacteria bacterium...                   ,167,167,96%,5.00E-50,50,PKM16143.1
+cytochrome P460 family protein [Thioalkalivibrio nitratireducens],167,167,84%,5.00E-50,54.89,WP_015257026.1
+cytochrome C [Betaproteobacteria bacterium...                    ,167,167,99%,6.00E-50,50,PKO84753.1
+hypothetical protein HRbin40_00558 [bacterium HR40]              ,166,166,97%,1.00E-49,51.28,GBD43093.1
+TPA: cytochrome C [Ignavibacteria bacterium]                     ,166,166,99%,2.00E-49,50,HDX12768.1
+cytochrome P460 family protein [Pseudomonas jilinensis]          ,165,165,87%,3.00E-49,52.52,WP_119701808.1
+TPA: cytochrome C [Ignavibacterium album]                        ,165,165,96%,3.00E-49,47.74,HFI92645.1
+cytochrome C [Gammaproteobacteria bacterium]                     ,165,165,86%,4.00E-49,55.8,PCH63367.1
+hypothetical protein HRbin21_00288 [bacterium HR21]              ,165,165,96%,7.00E-49,49.68,GBD06495.1
+cytochrome P460 family protein [Gallionella sp.]                 ,164,164,96%,1.00E-48,50,NCN23631.1
+MULTISPECIES: cytochrome c [Achromobacter]                     ,307,307,100%,1.00E-105,98.68,WP_054451102.1
+cytochrome c [Achromobacter xylosoxidans]                      ,307,307,100%,2.00E-105,98.68,WP_013392590.1
+cytochrome C [Achromobacter xylosoxidans]                      ,306,306,100%,2.00E-105,98.03,PTN50090.1
+cytochrome c [Achromobacter xylosoxidans]                      ,305,305,100%,2.00E-104,98.03,WP_088154337.1
+Cytochrome c' [Achromobacter anxifer]                          ,302,302,100%,1.00E-103,97.37,CAB3885778.1
+Cytochrome c' [Achromobacter deleyi]                           ,302,302,100%,2.00E-103,98.03,CAB3729532.1
+cytochrome c [Streptomyces cavourensis]                        ,301,301,100%,5.00E-103,96.71,RBL85810.1
+Cytochrome c' [Achromobacter kerstersii]                       ,301,301,100%,6.00E-103,96.71,CAB3695104.1
+cytochrome c [Achromobacter veterisilvae]                      ,300,300,100%,6.00E-103,96.71,WP_129245087.1
+cytochrome c [Achromobacter sp. NFACC18-2]                     ,300,300,100%,6.00E-103,97.37,WP_092581658.1
+cytochrome c [Achromobacter denitrificans]                     ,300,300,100%,1.00E-102,96.71,WP_062684011.1
+cytochrome c [Achromobacter insolitus]                         ,300,300,100%,1.00E-102,96.71,WP_042792681.1
+cytochrome c [Achromobacter sp. DH1f]                          ,299,299,100%,2.00E-102,96.71,WP_025140338.1
+cytochrome c [Achromobacter sp. MFA1 R4]                       ,299,299,100%,2.00E-102,96.71,WP_076519777.1
+MULTISPECIES: cytochrome c [Achromobacter]                     ,299,299,100%,2.00E-102,96.71,WP_006393799.1
+cytochrome c [Achromobacter sp. ATCC31444]                     ,299,299,100%,3.00E-102,96.05,WP_054423427.1
+cytochrome c [Achromobacter sp.]                               ,298,298,100%,4.00E-102,96.05,MPT29669.1
+cytochrome c [Achromobacter sp. AONIH1]                        ,298,298,100%,9.00E-102,95.39,WP_103273511.1
+Cytochrome c' [Achromobacter pestifer]                         ,297,297,100%,1.00E-101,95.39,CAB3701660.1
+cytochrome C' [Achromobacter piechaudii ATCC 43553]            ,297,297,100%,2.00E-101,95.39,EFF76310.1
+cytochrome c [Achromobacter marplatensis]                      ,297,297,100%,2.00E-101,96.05,WP_006224963.1
+cytochrome c [Achromobacter denitrificans]                     ,297,297,100%,2.00E-101,96.05,WP_123785864.1
+cytochrome c [Achromobacter piechaudii]                        ,296,296,100%,2.00E-101,95.39,WP_039883030.1
+cytochrome c [Achromobacter piechaudii]                        ,296,296,100%,3.00E-101,95.39,WP_050727701.1
+MULTISPECIES: cytochrome c [Achromobacter]                     ,296,296,100%,3.00E-101,96.05,WP_006388456.1
+cytochrome c [Achromobacter piechaudii]                        ,296,296,100%,3.00E-101,95.39,WP_061304544.1
+cytochrome c [Achromobacter sp. Bel]                           ,296,296,100%,4.00E-101,95.39,WP_169270007.1
+cytochrome c [Achromobacter ruhlandii]                         ,296,296,100%,4.00E-101,96.05,WP_063581844.1
+cytochrome c [Achromobacter sp. Root83]                        ,296,296,100%,5.00E-101,95.39,WP_057285093.1
+cytochrome c [Achromobacter xylosoxidans]                      ,295,295,100%,9.00E-101,96.05,WP_047992310.1
+cytochrome c [Achromobacter sp. MYb9]                          ,295,295,100%,9.00E-101,94.74,WP_105558460.1
+cytochrome c [Achromobacter xylosoxidans]                      ,295,295,100%,1.00E-100,96.05,WP_049050989.1
+cytochrome c [Achromobacter agilis]                            ,295,295,100%,1.00E-100,94.08,WP_129530532.1
+cytochrome c [Achromobacter xylosoxidans]                      ,295,295,100%,1.00E-100,95.39,WP_020924468.1
+MULTISPECIES: cytochrome c [Achromobacter]                     ,295,295,100%,1.00E-100,94.08,WP_046805522.1
+cytochrome c [Achromobacter ruhlandii]                         ,295,295,100%,2.00E-100,95.39,WP_169536475.1
+cytochrome c [Achromobacter spanius]                           ,294,294,100%,2.00E-100,94.08,WP_050445962.1
+cytochrome c [Achromobacter sp. RTa]                           ,294,294,100%,3.00E-100,93.42,WP_043544310.1
+MULTISPECIES: cytochrome c [Achromobacter]                     ,293,293,100%,4.00E-100,94.74,WP_056322645.1
+cytochrome c [Achromobacter xylosoxidans]                      ,293,293,100%,5.00E-100,95.39,WP_076411875.1
+cytochrome c [Achromobacter xylosoxidans]                      ,293,293,100%,6.00E-100,95.39,WP_155864664.1
+cytochrome c [Achromobacter xylosoxidans]                       ,292,292,100%,2.00E-99,94.74,WP_155866893.1
+cytochrome c [Achromobacter sp. Root565]                        ,292,292,100%,2.00E-99,93.42,WP_056567264.1
+Cytochrome c' [Achromobacter animicus]                          ,291,291,100%,2.00E-99,94.08,CAB3720744.1
+cytochrome c [Achromobacter spanius]                            ,290,290,100%,6.00E-99,93.42,WP_105238036.1
+cytochrome c [Achromobacter sp. HZ01]                           ,290,290,100%,7.00E-99,93.42,WP_111827031.1
+TPA: cytochrome C [Achromobacter sp.]                           ,290,290,100%,8.00E-99,93.42,HAP28153.1
+cytochrome c [Achromobacter arsenitoxydans]                     ,290,290,100%,1.00E-98,94.08,WP_008164366.1
+cytochrome c [Achromobacter pulmonis]                           ,290,290,100%,1.00E-98,92.76,WP_102774717.1
+TPA: cytochrome C [Achromobacter sp.]                           ,289,289,100%,2.00E-98,92.86,HBL64868.1
+cytochrome c [Achromobacter spanius]                            ,288,288,100%,4.00E-98,92.11,WP_100857065.1
+cytochrome c [Achromobacter sp. DMS1]                           ,269,269,100%,1.00E-90,85.53,WP_053246133.1
+"Chain A, CYTOCHROME C [Achromobacter xylosoxidans]               ",252,252,82%,3.00E-84,96.83,1CGN_A
+cytochrome C [Achromobacter xylosoxidans]                        ,251,251,84%,8.00E-84,96.12,ODA18404.1
+RecName: Full=Cytochrome c' [Achromobacter xylosoxidans]         ,251,251,83%,1.00E-83,96.06,P00138.2
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",249,249,82%,8.00E-83,96.03,1E83_A
+"Chain A, CYTOCHROME C [Alcaligenes sp.]                          ",248,248,82%,2.00E-82,95.24,1CGO_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",247,247,82%,3.00E-82,95.24,2YKZ_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",247,247,82%,3.00E-82,95.24,2XLE_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",247,247,82%,6.00E-82,95.24,2XLD_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",246,246,82%,6.00E-82,95.24,2XLO_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",246,246,82%,7.00E-82,95.24,2YL0_A
+"Chain A, CYTOCHROME C PRIME [Achromobacter xylosoxidans]         ",246,246,82%,7.00E-82,95.24,5AGF_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",246,246,82%,7.00E-82,95.2,5JUA_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",246,246,82%,1.00E-81,95.2,5JP7_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",246,246,82%,1.00E-81,95.24,2XL6_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",246,246,82%,1.00E-81,95.24,4D4N_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",245,245,82%,2.00E-81,95.24,4D4X_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",245,245,82%,2.00E-81,95.2,5JSL_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",245,245,82%,2.00E-81,95.24,2YL3_A
+"Chain A, CYTOCHROME C' [Achromobacter xylosoxidans]              ",245,245,82%,2.00E-81,95.24,2XL8_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",244,244,81%,3.00E-81,95.16,5JVE_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",244,244,81%,6.00E-81,95.16,5JS5_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",244,244,82%,9.00E-81,95.2,5NGX_A
+"Chain A, Cytochrome c' [Achromobacter xylosoxidans]              ",243,243,81%,1.00E-80,95.16,5JT4_A
+MULTISPECIES: cytochrome c [Bordetella]                         ,243,243,100%,2.00E-80,75,WP_033463551.1
+cytochrome c [Bordetella bronchiseptica]                        ,243,243,100%,2.00E-80,75,WP_033840553.1
+cytochrome c [Bordetella genomosp. 6]                           ,243,243,100%,5.00E-80,74.34,WP_094829910.1
+MULTISPECIES: cytochrome c [Bordetella]                         ,241,241,100%,2.00E-79,74.34,WP_003813017.1
+cytochrome c [Bordetella genomosp. 2]                           ,240,240,100%,4.00E-79,75.66,WP_094806932.1
+cytochrome c [Bordetella petrii]                                ,240,240,100%,5.00E-79,75.66,WP_028355763.1
+cytochrome c [Bordetella bronchiseptica]                        ,239,239,100%,1.00E-78,73.68,WP_150348977.1
+cytochrome c [Bordetella genomosp. 1]                            ,237,237,99%,8.00E-78,75.5,WP_094827804.1
+cytochrome c [Bordetella genomosp. 5]                            ,236,236,99%,3.00E-77,74.17,WP_094801997.1
+cytochrome c [Bordetella petrii]                                ,234,234,100%,8.00E-77,73.03,WP_012249631.1
+MULTISPECIES: cytochrome c [Bordetella]                         ,234,234,100%,8.00E-77,72.37,WP_026638063.1
+cytochrome c [Bordetella genomosp. 13]                           ,229,229,99%,2.00E-74,75.66,WP_086079338.1
+cytochrome c [Bordetella trematum]                               ,226,226,98%,1.00E-73,72.67,WP_025514563.1
+cytochrome c [Bordetella genomosp. 4]                           ,222,222,100%,6.00E-72,67.76,WP_094838177.1
+cytochrome c [Bordetella genomosp. 4]                           ,222,222,100%,9.00E-72,67.76,WP_094821799.1
+cytochrome c [Bordetella sp. 02P26C-1]                          ,221,221,100%,3.00E-71,69.74,WP_160357297.1
+cytochrome c [Bordetella sp. 15P40C-2]                          ,219,219,100%,7.00E-71,69.74,WP_160349539.1
+cytochrome c [Bordetella ansorpii]                              ,218,218,100%,2.00E-70,71.05,WP_066415687.1
+cytochrome c [Bordetella genomosp. 13]                          ,218,218,100%,4.00E-70,70.39,WP_144634892.1
+cytochrome c [Orrella dioscoreae]                               ,217,217,100%,7.00E-70,67.11,WP_067753272.1
+cytochrome c [Bordetella ansorpii]                              ,216,216,100%,1.00E-69,72.37,WP_066133519.1
+cytochrome c [Bordetella hinzii]                                 ,215,215,99%,4.00E-69,73.51,WP_029579657.1
+cytochrome c [Bordetella hinzii]                                 ,212,212,99%,4.00E-68,72.85,WP_165554812.1

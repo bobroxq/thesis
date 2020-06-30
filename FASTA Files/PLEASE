@@ -1,0 +1,13 @@
+#FormatVersion Mauve1
+#Sequence1File	C:\Users\bobro\Documents\THESIS\FASTA Files\Cyt P460 M. capsulatus Bath.fasta
+#Sequence1Format	FastA
+#Sequence2File	C:\Users\bobro\Documents\THESIS\FASTA Files\CYT C' BETA M capsulatus Bath.fasta
+#Sequence2Format	FastA
+#BackboneFile	C:\Users\bobro\Documents\THESIS\FASTA Files\PLEASE.bbcols
+> 1:1-110 + C:\Users\bobro\Documents\THESIS\FASTA Files\Cyt P460 M. capsulatus Bath.fasta
+MNKSVGVVSGVGAATKVKYDGRSWYHVKSMVGHNGGHHVYANAAGRGGNYDGAVVDDYDNHAVGKRKGVMRDAKRSATGG
+WGYGGGKDKRVTDGGGCGCHAAKSYVSRRD
+> 2:1-110 + C:\Users\bobro\Documents\THESIS\FASTA Files\CYT C' BETA M capsulatus Bath.fasta
+MNKSVGVVSGVGAATKVKYDGRSWYHVKSMVGHNGGHHVYANAAGRGGNYDGAVVDDYDNHAVGKRKGVMRDAKRSATGG
+WGYGGGKDKRVTDGGGCGCHAAKSYVSRRD
+=

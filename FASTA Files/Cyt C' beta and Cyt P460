@@ -1,0 +1,10 @@
+FormatVersion	4
+SequenceCount	2
+Sequence0File	C:\Users\bobro\Documents\THESIS\FASTA Files\CYT C' BETA M capsulatus Bath.fasta
+Sequence0Length	110
+Sequence1File	C:\Users\bobro\Documents\THESIS\FASTA Files\Cyt P460 M. capsulatus Bath.fasta
+Sequence1Length	110
+IntervalCount	1
+Interval 0
+110	1	1
+
